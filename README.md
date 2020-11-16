@@ -2,11 +2,6 @@
 
 Otro cambio
 Cambios.
-<<<<<<< HEAD
-Prueba
-=======
-PRUEBAS
->>>>>>> 77af195083048b674dcba864d73ca87922935a0d
 Plataforma voto electrónico educativa
 =====================================
 Mas cambios
