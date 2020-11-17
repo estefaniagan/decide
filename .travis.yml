@@ -16,11 +16,6 @@ python:
 install:
   - pip install -r requirements.txt
   - pip install codacy-coverage
-  - pip install -q Django==$DJANGO_VERSION
-  - python setup.py -q install
-env:
-  - DJANGO_VERSION=2.1.13
-  - DJANGO_VERSION=2.2.6
 script:
   - cd decide
   - coverage run --branch --source=. ./manage.py test --keepdb --with-xunit
