@@ -22,6 +22,6 @@ script:
 notifications:
   email:
     recipients:
-      - carsantir@gmail.com
-    on_success: never # default: change
+      - carsantir@alum.us.es
+    on_success: always # default: change
     on_failure: always # default: always
